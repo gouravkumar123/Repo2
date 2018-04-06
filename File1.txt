@@ -1,4 +1,8 @@
 Hello ,
 first file for command GIT bash.
 
+<<<<<<< HEAD
 File
+=======
+Bracnch2
+>>>>>>> Branch2
